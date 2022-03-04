@@ -28,7 +28,7 @@
   </ul>
 </nav>
 <nav aria-label="..." class="col-6  d-lg-none offset-md-2 " >
-  <ul class="pagination mx-auto">
+  <ul class="pagination pagination-sm mx-auto ">
     <li class="page-item ">
       <span class="page-link">   <i class="fa fa-arrow-left" aria-hidden="true"></i> </span>
     </li>
