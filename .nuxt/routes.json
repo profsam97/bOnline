@@ -3,12 +3,14 @@
     "name": "about",
     "path": "/about",
     "component": "C:\\\\Users\\\\proft\\\\OneDrive\\\\Documents\\\\Vue\\\\nuxt\\\\bOnline\\\\pages\\\\about.vue",
-    "chunkName": "pages/about"
+    "chunkName": "pages/about",
+    "_name": "_e694e77e"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\proft\\\\OneDrive\\\\Documents\\\\Vue\\\\nuxt\\\\bOnline\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_a72531f4"
   }
 ]
