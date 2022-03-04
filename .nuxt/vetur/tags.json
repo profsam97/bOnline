@@ -1,0 +1,62 @@
+{
+  "About": {
+    "description": "Auto imported from components/About.vue"
+  },
+  "Account": {
+    "description": "Auto imported from components/Account.vue"
+  },
+  "AccountRow": {
+    "description": "Auto imported from components/AccountRow.vue"
+  },
+  "BIlling": {
+    "description": "Auto imported from components/BIlling.vue"
+  },
+  "BillTable": {
+    "description": "Auto imported from components/BillTable.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LoadingBar": {
+    "description": "Auto imported from components/LoadingBar.vue"
+  },
+  "Logout": {
+    "description": "Auto imported from components/Logout.vue"
+  },
+  "Main": {
+    "description": "Auto imported from components/Main.vue"
+  },
+  "MyProduct": {
+    "description": "Auto imported from components/MyProduct.vue"
+  },
+  "Navbar": {
+    "description": "Auto imported from components/Navbar.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "Pagination": {
+    "description": "Auto imported from components/Pagination.vue"
+  },
+  "Payment": {
+    "description": "Auto imported from components/Payment.vue"
+  },
+  "PaymentDetails": {
+    "description": "Auto imported from components/PaymentDetails.vue"
+  },
+  "ProductDetails": {
+    "description": "Auto imported from components/ProductDetails.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "TableRow": {
+    "description": "Auto imported from components/TableRow.vue"
+  },
+  "Topbar": {
+    "description": "Auto imported from components/Topbar.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  }
+}
